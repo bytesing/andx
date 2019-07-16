@@ -1,0 +1,7 @@
+include ':app'
+include ':moduleHttp'
+include ':moduleImgl'
+include ':moduleMvp'
+include ':modulePage'
+include ':moduleUtil'
+include ':moduleCrash'
